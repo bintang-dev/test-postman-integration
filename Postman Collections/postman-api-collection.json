@@ -16,7 +16,22 @@
 				"header": [],
 				"url": "{{baseUrl}}/test/doank"
 			},
-			"response": []
+			"response": [
+				{
+					"id": "97454297-2459-4c37-bedd-3ea57f6f4f9d",
+					"name": "Test 1",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": "{{baseUrl}}/test/doank"
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"responseTime": null,
+					"body": null
+				}
+			]
 		}
 	]
 }
